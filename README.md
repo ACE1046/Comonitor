@@ -20,7 +20,7 @@ And use a little of memory
 
 ### Installation
 
-Download [compiled exe](build-Release/release/Comonitor.exe) and put it in Startup folder (Start > All Programs, then right-click on Startup and selecting "Open"). Or just run from any folder of desktop as needed.
+Download [compiled exe](build-Release/release/Comonitor.exe) and put it in Startup folder (Start > All Programs, then right-click on "Startup" and selecting "Open"). Or just run from any folder or desktop as needed.
 
 ### Authors
 
